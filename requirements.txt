@@ -1,0 +1,7 @@
+json
+numpy 
+os
+pillow
+replicate
+requests
+torch
