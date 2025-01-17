@@ -1,4 +1,3 @@
 {
-    "BLACKFOREST_KEY": "your_api_key",
-    "REPLICATE_KEY": "your_api_key"
+    "OPENAI_KEY": "your_api_key"
   }

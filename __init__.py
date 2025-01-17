@@ -1,6 +1,5 @@
-from .black_forest_api import BlackForestAPI
+from .basic_GPT import BasicGPT
 
 NODE_CLASS_MAPPINGS = {
-    "BlackForestAPI": BlackForestAPI,
-    # "ReplicateForestAPI": ReplicateForestAPI
+    "BasicGPT": BasicGPT
 }
